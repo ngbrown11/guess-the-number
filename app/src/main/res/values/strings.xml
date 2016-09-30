@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="edit_message">Pick a number between 0-100</string>
+    <string name="button_send">Guess</string>
+    <string name="action_settings">Restart</string>
+    <string name="change_range">Range</string>
+    <string name="title_activity_display_message">Great Job!</string>
+</resources>
